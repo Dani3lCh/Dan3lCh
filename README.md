@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>Hola, soy un desarrollador de aplicaciones web y móviles con pasión por crear soluciones útiles, eficientes y con buena experiencia de usuario. Me encanta combinar diseño y funcionalidad para construir productos que realmente aporten valor.<br><br>- 🔧 Trabajo con tecnologías modernas como Flutter, React, Firebase y más.<br>- 🚀 Siempre estoy aprendiendo algo nuevo y mejorando mis habilidades.<br>- 🧩 Disfruto resolver problemas y construir desde cero.<br>- 💬 Me gusta colaborar, compartir ideas y ser parte de proyectos desafiantes.<br>- 📱 Actualmente trabajando en apps móviles que simplifican tareas del día a día.<br><br>
+<br><br>Hola, soy un desarrollador de aplicaciones web y móviles con pasión por crear soluciones útiles, eficientes y con buena experiencia de usuario. Me encanta combinar diseño y funcionalidad para construir productos que realmente aporten valor.<br><br>- 🔧 Trabajo con tecnologías modernas como Flutter, React, Firebase y más.<br>- 🚀 Siempre estoy aprendiendo algo nuevo y mejorando mis habilidades.<br>- 🧩 Disfruto resolver problemas y construir desde cero.<br>- 💬 Me gusta colaborar, compartir ideas y ser parte de proyectos desafiantes.<br>- 📱 Actualmente, desarrollo aplicaciones móviles que facilitan y optimizan las tareas diarias.<br><br>
 
 
 # 💻 Tech Stack:
